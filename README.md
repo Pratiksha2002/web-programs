@@ -4,3 +4,6 @@ program 1 output![image](https://github.com/Pratiksha2002/web-programs/assets/13
 
 program 2 output![Screenshot (6)](https://github.com/Pratiksha2002/web-programs/assets/136680645/90419a2f-c3f0-4ab8-9bc3-b5c84a1dee6e)
 
+program3 output
+![Screenshot (8)](https://github.com/Pratiksha2002/web-programs/assets/136680645/0590e4ef-1028-48d9-8607-f0f4d8a0b1e2)
+![Screenshot (7)](https://github.com/Pratiksha2002/web-programs/assets/136680645/f13a7750-93f7-4c1d-9283-239045ffb108)
