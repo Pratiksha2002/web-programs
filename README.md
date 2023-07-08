@@ -13,6 +13,7 @@ program4 output
 program5 output
 ![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/06bb31cb-7736-46a9-aa78-40cfcf091934)
 program6 output
-![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/478a72c6-1a32-464b-aa88-1def0b591636)
+![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/5ffc1831-f9f6-42bc-9334-fbf319376354)
+
 
 
