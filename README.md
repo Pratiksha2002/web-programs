@@ -12,5 +12,9 @@ program4 output
 ![Screenshot (9)](https://github.com/Pratiksha2002/web-programs/assets/136680645/4279c387-4a9c-48ae-865f-c664bd8569f7)
 program5 output
 ![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/06bb31cb-7736-46a9-aa78-40cfcf091934)
+program6 output
+![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/ea8ff365-0978-4f81-9845-80b8d298ef10)
+
+
 
 
