@@ -7,3 +7,7 @@ program 2 output![Screenshot (6)](https://github.com/Pratiksha2002/web-programs/
 program3 output
 ![Screenshot (8)](https://github.com/Pratiksha2002/web-programs/assets/136680645/0590e4ef-1028-48d9-8607-f0f4d8a0b1e2)
 ![Screenshot (7)](https://github.com/Pratiksha2002/web-programs/assets/136680645/f13a7750-93f7-4c1d-9283-239045ffb108)
+
+program4 output
+![Screenshot (9)](https://github.com/Pratiksha2002/web-programs/assets/136680645/4279c387-4a9c-48ae-865f-c664bd8569f7)
+
