@@ -10,4 +10,7 @@ program3 output
 
 program4 output
 ![Screenshot (9)](https://github.com/Pratiksha2002/web-programs/assets/136680645/4279c387-4a9c-48ae-865f-c664bd8569f7)
+program5 output
+![image](https://github.com/Pratiksha2002/web-programs/assets/136680645/06bb31cb-7736-46a9-aa78-40cfcf091934)
+
 
